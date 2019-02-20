@@ -3,5 +3,5 @@ Integrate the very best of YouTube into your server. This bot brings statistics,
 
 Find YouTube on **discordbots.org** and **discordbotlist.com**!  
   
-[![discordbots.org](https://discordbots.org/api/widget/456633518882160642.svg)](https://discordbots.org/bot/456633518882160642)
+[![discordbots.org](https://discordbots.org/api/widget/456633518882160642.svg)](https://discordbots.org/bot/youtube)
 [![discordbotlist.com](https://discordbotlist.com/bots/456633518882160642/widget)](https://discordbotlist.com/bots/456633518882160642)
