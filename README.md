@@ -7,4 +7,4 @@ Find YouTube on **discordbots.org**, **discordbotlist.com**, **bots.ondiscord.xy
 [![discordbotlist.com](https://discordbotlist.com/bots/456633518882160642/widget)](https://discordbotlist.com/bots/456633518882160642)
 [![discordbots.group](https://discordbots.group/api/bot/456633518882160642/widget)](https://discordbots.group/bot/456633518882160642)
 [![bots.ondiscord.xyz](https://bots.ondiscord.xyz/bots/456633518882160642/embed?theme=dark&showGuilds=true)](https://bots.ondiscord.xyz/bots/456633518882160642)
-[![dbu](https://e5e2b250.ngrok.io/api/bots/456633518882160642/widget)](https://e5e2b250.ngrok.io/bots/456633518882160642)
+[![dbu](https://e5e2b250.ngrok.io/api/bot/456633518882160642/widget)](https://e5e2b250.ngrok.io/bots/456633518882160642)
